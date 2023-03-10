@@ -1,0 +1,10 @@
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\bin\Debug\Bai02.exe.config
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\bin\Debug\Bai02.exe
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\bin\Debug\Bai02.pdb
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.Properties.Resources.resources
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.csproj.GenerateResource.cache
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.csproj.CoreCompileInputs.cache
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.exe
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.pdb
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.MainForm.resources
+D:\Phát triển ứng dụng Desktop\BaiThucHanhBuoi1\Bai02\obj\Debug\Bai02.csproj.AssemblyReference.cache
