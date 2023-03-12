@@ -1,0 +1,13 @@
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\bin\Debug\BaiTapWindowsFrom.exe.config
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\bin\Debug\BaiTapWindowsFrom.exe
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\bin\Debug\BaiTapWindowsFrom.pdb
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.AssemblyReference.cache
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmBai1.resources
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmChinh.resources
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.Properties.Resources.resources
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.GenerateResource.cache
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.csproj.CoreCompileInputs.cache
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.exe
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.pdb
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmBai2.resources
+D:\Phát triển ứng dụng Desktop\BaiTapWindowsFrom\BaiTapWindowsFrom\obj\Debug\BaiTapWindowsFrom.frmBai3.resources
